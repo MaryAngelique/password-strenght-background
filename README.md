@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Password Strength Background GitHub Solution](https://github.com/MaryAngelique/password-strenght-background)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
