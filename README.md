@@ -17,9 +17,9 @@
 
 Users should be able to:
 
-#### - 
+#### - Input in an email and password
 
-#### - 
+#### - As users type in the password, the blurry background image will become clear as the user types in a strong password
 
 #### - 
 
