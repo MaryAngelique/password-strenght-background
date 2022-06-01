@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Password Strength Background GitHub Solution](https://github.com/MaryAngelique/password-strenght-background)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Password Strength Background Website](https://password-strength-background.vercel.app/)
 
 ## My process
 
